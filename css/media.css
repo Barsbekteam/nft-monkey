@@ -1,0 +1,471 @@
+@media (max-width: 1440px){
+.discover-block{
+    margin: 15px 5px;
+}
+
+    .collection-block{
+        margin: 15px 9px;
+    }
+    .slick-next {
+        right: 72px;
+    }
+    .find-circle{
+        margin: 59px 200px 0 0;
+    }
+    .hero h1 h2 h3 h4{
+        font-size: 68px;
+    }
+}
+@media (max-width: 1200px){
+    .hero h2{
+        font-size: 68px;
+    }
+    .hero h3{
+        font-size: 68px;
+    }
+    .hero h4{
+        font-size: 68px;
+    }
+    .find-image {
+        width: 263px;
+        height: 369px;
+        top: 100px;
+        left: 521px;
+    }
+    .find-image img {
+        width: 110%;
+        right: 80px;
+        bottom: -50px;
+    }
+    .find-first-logos h1{
+        font-size: 30px;
+    }
+
+    .fox{
+        width: 40px;
+        left: -41px !important;
+    }
+    .hot-title ion-icon{
+        right: 240px;
+    }
+    .slick-next{
+        right: 2px;
+    }
+    .collection{
+        justify-content: center;
+    }
+    .searcher-nav a{
+        font-size: 24px;
+    }
+    .searcher h2{
+        font-size: 24px;
+        line-height: 31px;
+    }
+}
+@media (max-width: 1024px){
+    .star ion-icon{
+        left: 10%;
+        top: 3px;
+    }
+    .long-circle{
+        right: 3%;
+    }
+    .find-circle{
+        margin-right: 80px;
+    }
+    .find-center-circle2{
+        left: 240px;
+    }
+    .find-center-circle1 {
+        width: 250px;
+        height: 77px;
+    }
+    .find-image{
+        left: 446px;
+        top: 150px;
+    }
+    .creat-circle2{
+        margin-left: 666px;
+        margin-bottom: 50px;
+    }
+    .creat-icon ion-icon{
+        left: 527px;
+    }
+}
+@media (max-width: 992px){
+    .nav-inputs{
+        width: 250px;
+    }
+    .find-center-circle2{
+        left: 200px;
+    }
+    .find-image{
+        left: 410px;
+    }
+    .slick-prev{
+        left: 1px;
+    }
+    .creat img{
+        width: 80%;
+    }
+    .creat h1 {
+        font-size: 30px;
+        left: 13%;
+        bottom: 47%;
+    }
+}
+@media (max-width: 768px){
+    .navbar-a{
+        display: none;
+    }
+    .hero h2{
+        font-size: 30px;
+    }
+    .hero h3{
+        font-size: 30px;
+    }
+    .hero h4{
+        font-size: 30px;
+    }
+    .hero-img{
+        width: 15%;
+        margin: 0 5px;
+    }
+    .hero-img2{
+        width: 23%;
+        margin: 0 5px;
+
+    }
+    .find-head p{
+        font-size: 12px;
+    }
+    .find-center-circle1 {
+        width: 136px;
+        height: 36px;
+    }
+    .find-center-circle2{
+        left: 117px;
+        top: 32px;
+        width: 40px;
+        height: 18px;
+    }
+    .find-image{
+        left: 278px;
+    }
+    .find-center-right p {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .find-first-logos{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .find-footer-tittle{
+        margin: 10px 40px;
+    }
+    .find-second-logos{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .find-second-logos img{
+        margin: 10px 20px;
+    }
+    .searcher a h1{
+        font-size: 32px;
+    }
+    .searcher a h1 span{
+        font-size: 55px;
+    }
+    .searcher-ion ion-icon {
+        margin-right: 10px;
+        font-size: 26px;
+    }
+    .searcher-nav a {
+        font-size: 14px;
+    }
+    .searcher h2 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .footer p{
+        font-size: 12px;
+    }
+}
+@media (max-width: 576px){
+    .hero h1{
+        font-size: 12px;
+    }
+    .long-circle {
+        width: 40px;
+        height: 143px;
+    }
+    .find-circle{
+        width: 35px;
+        height: 35px;
+    }
+    .find-center-circle1 {
+        width: 76px;
+        height: 17px;
+    }
+    .find-center-circle2 {
+        left: 68px;
+        top: 18px;
+        width: 23px;
+        height: 10px;
+    }
+    .find-image {
+        width: 130px;
+        height: 176px;
+        top: 150px;
+        left: 229px;
+    }
+    .find-image img {
+        width: 108%;
+        right: 36px;
+        bottom: -25px;
+    }
+    .find-center-icon ion-icon {
+        font-size: 26px;
+        margin-top: 100px;
+    }
+    .hot-block{
+        left: -2%;
+    }
+    .collection-btn-circle{
+        left: 75px;
+    }
+    .collection-btn ion-icon{
+        left: 400px;
+    }
+    .creat-circle{
+        width: 133px;
+        height: 33px;
+    }
+    .creat-circle2{
+        margin-left: 410px;
+    }
+    .discover-title ion-icon{
+        position: absolute;
+        right: 231px !important;
+    }
+    .creat-icon ion-icon{
+        left: 322px ;
+    }
+    .recourse-btn-circle {
+        width: 74px;
+        height: 28px;
+        left: 79px;
+    }
+    .recourse-btn{
+        padding: 88px 0;
+    }
+    .searcher{
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .searcher-nav{
+        margin: 20px;
+    }
+    .footer a ion-icon {
+        font-size: 14px;
+        padding: 5px;
+        margin: 0px;
+    }
+}
+@media (max-width: 451px){
+    .find-image{
+        left: 151px;
+    }
+    .long-circle {
+        width: 20px;
+        height: 74px;
+    }
+    .slick-next{
+        background: url(../img/next-arrow.svg) no-repeat center/33px;
+        width: 35.33px;
+        height: 33.4px;
+        right: -7px;
+    }
+    .slick-prev{
+
+        background: url(../img/prev-arrow.svg) no-repeat center/33px;
+        width: 35.33px;
+        height: 33.4px;
+    }
+    .hot-circle2 {
+        right: 26px;
+    }
+    .creat-circle2 {
+        margin-left: 330px;
+    }
+    .creat h1 {
+        font-size: 20px;
+        left: 13%;
+        bottom: 64%;
+    }
+
+    .accord p {
+        font-size: 10px;
+        line-height: 11px;
+    }
+    .accord h2 {
+        font-weight: 500;
+        font-size: 11px;
+        margin: 0 5px;
+    }
+    .accord h1 {
+        font-size: 15px;
+    }
+    .recourse-btn-circle {
+        width: 74px;
+        height: 28px;
+        left: 44px;
+    }
+
+
+}
+@media (max-width: 400px){
+    .footer-subtitle{
+        margin: 0 5px;
+    }
+    .discover{
+        flex-direction: column;
+        align-items: center;
+    }
+    .discover button{
+        margin-top: 15px;
+    }
+    .hot-block img{
+        width: 244px;
+    }
+    .nav-inputs {
+        width: 180px;
+        margin-left: 15px;
+    }
+    .find-center-right p {
+        font-size: 8px;
+        line-height: 13px;
+    }
+    .star2 ion-icon {
+        margin-left: -5px;
+
+        font-size: 23px;
+
+    }
+    .star ion-icon {
+        top: 0px;
+        left: 6%;
+        font-size: 16px;
+    }
+}
+@media (max-width: 380px){
+    .find-image {
+        left: 141px;
+    }
+    .collection-btn-circle {
+        left: 23px;
+    }
+    .creat-circle2 {
+        margin-left: 266px;
+    }
+    .creat ion-icon {
+        left: 232px;
+    }
+    .accord p {
+        font-size: 9px;
+        line-height: 8px;
+        width: 39%;
+    }
+    .recourse-btn button {
+        font-size: 15px;
+        width: 129px;
+        height: 42px;
+    }
+    .discover-btn button{
+        margin-top: 36px;
+    }
+    .discover-title h1 ion-icon {
+        left: 230px;
+    }
+}
+@media (max-width: 375px) {
+    .find-image img {
+        width: 99%;
+        right: 28px;
+        bottom: -12px;
+    }
+    .find-image {
+        width: 123px;
+        height: 167px;
+        left: 138px;
+    }
+    .find-center-circle2 {
+        left: 58px;
+    }
+}
+@media (max-width: 320px){
+    .nav-logo h1 {
+        font-size: 16px
+    }
+    .nav-logo span{
+        font-size: 23px;
+    }
+    .nav-inputs{
+        width: 160px;
+    }
+    .hero h1{
+        font-size: 10px;
+    }
+    .find-image{
+        top: 190px;
+        left: 85px;
+    }
+    .find-center-circle2 {
+        left: 210px;
+        top: 93px;
+    }
+    .find-icon {
+        width: 58px;
+        height: 44px;
+    }
+    .hot-block img{
+        width: 203px;
+    }
+    .discover-line{
+        width: 250px;
+    }
+    .collection-title h2{
+        font-size: 31px;
+    }
+    .collection-title h1{
+        font-size: 14px;
+    }
+    .collection-title p{
+        font-size: 11px;
+    }
+    .collection-image img{
+        margin: 20px 5px 0 5px;
+    }
+    .collection-block-title h1 {
+        font-size: 11px;
+        margin-right: 5px;
+    }
+    .collection-block-title h2{
+        font-size: 10px;
+    }
+    .discover-block img{
+        width: 90%;
+    }
+    .discover-subtitle h1{
+        margin-right: 75px;
+    }
+    .slick-next{
+        right: -3px;
+    }
+}
+
+
+
+
+
